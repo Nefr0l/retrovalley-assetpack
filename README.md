@@ -1,2 +1,3 @@
-# retroValley-assetPack
-Asset pack designed for tile set platformer game
+# Retro Valley - Asset pack
+
+Asset pack designed by Nefr0l.
