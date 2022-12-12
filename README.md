@@ -1,7 +1,7 @@
 ![This is an image](https://i.ibb.co/njgmLgC/Bg.png)
 
 # About
-Retro Valley is an asset pack created by Nefr0l. It contains arts and tilesets designed for a platformer game but you can use it for whatever you want as long as you give me a credit. 
+Retro Valley is an asset pack created by Nefr0l. It contains arts and tilesets designed for a platformer game but you can use it for whatever you want as long as you give me a credit. Note that this asset pack is still under construction.
 
 # Donate
 If you want to support my work, you can buy me a coffe through PayPal :)
