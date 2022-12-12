@@ -4,7 +4,7 @@
 Retro Valley is an asset pack created by Nefr0l. It contains arts and tilesets designed for a platformer game but you can use it for whatever you want as long as you give me a credit. Note that this asset pack is still under construction.
 
 # Donate
-If you want to support my work, you can buy me a coffe through PayPal :)
+If you want to support my work, you can buy me a coffee through PayPal :)
 
 <a href="https://paypal.me/FilipWrzosek?country.x=PL&locale.x=pl_PL"><img src="https://i.ibb.co/xgSLhKB/paypal-yellow-payment-button2.webp" height="40"></a> 
 
