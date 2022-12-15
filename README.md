@@ -6,7 +6,7 @@ Retro Valley is an asset pack created by Nefr0l. It contains arts and tilesets d
 # Donate
 If you want to support my work, you can buy me a coffee through PayPal :)
 
-<a href="https://paypal.me/FilipWrzosek?country.x=PL&locale.x=pl_PL"><img src="https://i.ibb.co/xgSLhKB/paypal-yellow-payment-button2.webp" height="40"></a> 
+<a href="https://paypal.me/FilipWrzosek?country.x=PL&locale.x=pl_PL"><img src="https://i.ibb.co/92xBZyV/Donate-Button.png" height="75"></a> 
 
 # Specification
 - Tile size is 16x16px. 
